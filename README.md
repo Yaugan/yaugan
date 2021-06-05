@@ -1,4 +1,5 @@
-<h2>नमस्ते (Namaste)🙏🏻, I'm Ekansh Mittal ! <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="60"></h2>
+<h2>नमस्ते (Namaste)🙏🏻
+ <br/>I'm Ekansh Mittal ! <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="60"></h2>
 <h3 align="left">An Immersive Reality Enthusiast learning and developing apps in the field of AR, VR, XR.</h3>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ekansh_mittal?label=Follow)](https://twitter.com/intent/follow?screen_name=ekansh_mittal)
