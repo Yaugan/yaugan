@@ -61,67 +61,43 @@
       </a>
       <br>Bootstrap
     </td>
-    <td align="center" width="96">
-      <a href="#yaugan-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
   </tr>
   <tr>
+    <td align="center" width="96">
+      <a href="#yaugan-tech">
+        <img src="./img/sass-original.svg" width="48" height="48" alt="HTML" />
+      </a>
+      <br>HTML
+    </td>
     <td align="center" width="96"> 
       <a href="#yaugan-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="./img/docker-original.svg" width="48" height="48" alt="CSS" />
       </a>
-      <br>Docker
+      <br>CSS
     </td>
     <td align="center" width="96">
       <a href="#yaugan-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Unreal Engine" />
       </a>
-      <br>Kubernetes
+      <br>Unreal Engine
     </td>
     <td align="center"  width="96">
       <a href="#yaugan-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+        <img src="./img/debian-original.svg" width="48" height="48" alt="SparkAR" />
       </a>
-      <br>Debian
+      <br>SparkAR
     </td>
     <td align="center"  width="96">
       <a href="#yaugan-tech">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
+        <img src="./img/redhat-original.svg" width="48" height="48" alt="Lens Studio" />
       </a>
-      <br>RHEL
+      <br>Lens Studio
     </td>
     <td align="center" width="96">
       <a href="#yaugan-tech">
         <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
       </a>
       <br>Powershell
-    </td>
-    <td align="center"  width="96">
-      <a href="#yaugan-tech">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="#yaugan-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
-    </td>
-    <td align="center" width="96">
-      <a href="#yaugan-tech" >
-        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
-      </a>
-      <br>Prometheus
-    </td>
-    <td align="center" width="96">
-      <a href="#yaugan-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
-      </a>
-      <br>Thanos
     </td>
   </tr>
 </table>
