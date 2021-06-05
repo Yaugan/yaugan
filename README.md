@@ -1,9 +1,9 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Ekansh Mittal</h1>
-<h3 align="left">I am an AR Evangelist taking world as a Canvas.</h3>
+<h3 align="left">An Immersive Reality Enthusiast learning and developing apps in the field of AR, VR, XR.</h3>
 
 <p align="left">
-  <a href="https://github.com/MacroPower/MacroPower">
-    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
+  <a href="https://github.com/Yaugan/yaugan">
+    <img src="https://komarev.com/ghpvc/?username=yaugan" alt="page views" />
   </a>
   <a href="https://macropower.readthedocs.io/en/latest">
     <img alt="Read the Docs" src="https://img.shields.io/readthedocs/macropower?logo=read-the-docs">
