@@ -103,7 +103,5 @@
 </table>
 
 <!-- links -->
-
-[84.51°]: https://github.com/8451 "84.51° Github Home"
 [issues page]: https://github.com/Yaugan/Yaugan/issues "Yaugan/issues"
 [linkedin]: https://www.linkedin.com/in/ekansh-mittal/ "Ekansh Mittal LinkedIn"
