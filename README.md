@@ -39,7 +39,7 @@
     </td>
     <td align="center" width="96">
       <a href="#yaugan-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Unity" />
+        <img src="./img/unity.svg" width="88" height="88" alt="Unity" />
       </a>
       <br>Unity
     </td>
@@ -65,31 +65,31 @@
   <tr>
     <td align="center" width="96">
       <a href="#yaugan-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="HTML" />
+        <img src="./img/html.svg" width="48" height="48" alt="HTML" />
       </a>
       <br>HTML
     </td>
     <td align="center" width="96"> 
       <a href="#yaugan-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="CSS" />
+        <img src="./img/css.svg" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS
     </td>
     <td align="center" width="96">
       <a href="#yaugan-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Unreal Engine" />
+        <img src="./img/unreal.svg" width="48" height="48" alt="Unreal Engine" />
       </a>
       <br>Unreal Engine
     </td>
     <td align="center"  width="96">
       <a href="#yaugan-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="SparkAR" />
+        <img src="./img/sparkAR.svg" width="100" height="100" alt="SparkAR" />
       </a>
       <br>SparkAR
     </td>
     <td align="center"  width="96">
       <a href="#yaugan-tech">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="Lens Studio" />
+        <img src="./img/lens.svg" width="108" height="108" alt="Lens Studio" />
       </a>
       <br>Lens Studio
     </td>
