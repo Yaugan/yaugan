@@ -65,13 +65,13 @@
   <tr>
     <td align="center" width="96">
       <a href="#yaugan-tech">
-        <img src="https://simpleicons.org/icons/html5.svg" width="48" height="48" alt="HTML" />
+        <img src="./img/html5.png" width="48" height="48" alt="HTML" />
       </a>
       <br>HTML
     </td>
     <td align="center" width="96"> 
       <a href="#yaugan-tech" >
-        <img src="https://simpleicons.org/icons/css3.svg" width="48" height="48" alt="CSS" />
+        <img src="./img/css3.png" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS
     </td>
