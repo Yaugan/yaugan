@@ -95,9 +95,9 @@
     </td>
     <td align="center" width="96">
       <a href="#yaugan-tech">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
+        <img src="https://simpleicons.org/icons/blender.svg" width="48" height="48" alt="Blender" />
       </a>
-      <br>Powershell
+      <br>Blender
     </td>
   </tr>
 </table>
