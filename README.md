@@ -3,7 +3,9 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ekansh_mittal?label=Follow)](https://twitter.com/intent/follow?screen_name=ekansh_mittal)
 [![Linkedin: anmol](https://img.shields.io/badge/-ekansh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ekansh-mittal/)](https://www.linkedin.com/in/ekansh-mittal/)
-![GitHub followers](https://img.shields.io/github/followers/yaugan?label=Follow&style=social)
+[![Instagram Badge](https://img.shields.io/badge/-ekansh-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/the_undeviated_soul/?hl=en)
+[![Telegram Badge](https://img.shields.io/badge/-ekansh-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/iamyaugan)
+
 
 <p align="left">
   <a href="https://github.com/Yaugan/yaugan">
@@ -23,7 +25,7 @@
 
 <br>
 
-<h2 align="left" id="yaugan-tech">Favorite Tech</h2>
+<h2 align="left" id="yaugan-tech">🌟 Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
 
@@ -105,6 +107,15 @@
     </td>
   </tr>
 </table>
+
+
+<h2 align="left" id="yaugan-tech">☄️ Github Streaks</h2>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yaugan&hide_border=true" />
+
+
+<h2 align="left" id="yaugan-tech">💻 Most Used Languages</h2>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaugan&hide=TeX&layout=compact)
 
 <!-- links -->
 [issues page]: https://github.com/Yaugan/Yaugan/issues "Yaugan/issues"
