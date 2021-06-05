@@ -39,7 +39,7 @@
     </td>
     <td align="center" width="96">
       <a href="#yaugan-tech">
-        <img src="./img/unity.svg" width="48" height="48" alt="Unity" />
+        <img src="https://simpleicons.org/icons/unity.svg" width="48" height="48" alt="Unity" />
       </a>
       <br>Unity
     </td>
@@ -65,13 +65,13 @@
   <tr>
     <td align="center" width="96">
       <a href="#yaugan-tech">
-        <img src="./img/html.svg" width="48" height="48" alt="HTML" />
+        <img src="https://simpleicons.org/icons/html5.svg" width="48" height="48" alt="HTML" />
       </a>
       <br>HTML
     </td>
     <td align="center" width="96"> 
       <a href="#yaugan-tech" >
-        <img src="./img/css.svg" width="48" height="48" alt="CSS" />
+        <img src="https://simpleicons.org/icons/css3.svg" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS
     </td>
@@ -83,7 +83,7 @@
     </td>
     <td align="center"  width="96">
       <a href="#yaugan-tech">
-        <img src="./img/sparkAR.svg" width="48" height="48" alt="SparkAR" />
+        <img src="https://simpleicons.org/icons/sparkar.svg" width="48" height="48" alt="SparkAR" />
       </a>
       <br>SparkAR
     </td>
