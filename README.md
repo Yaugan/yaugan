@@ -83,7 +83,7 @@
     </td>
     <td align="center"  width="96">
       <a href="#yaugan-tech">
-        <img src="https://simpleicons.org/icons/sparkar.svg" width="48" height="48" alt="SparkAR" />
+        <img src="./img/sparkAR.png" width="48" height="48" alt="SparkAR" />
       </a>
       <br>SparkAR
     </td>
