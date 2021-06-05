@@ -1,5 +1,9 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Ekansh Mittal</h1>
+<h2>नमस्ते (Namaste)🙏🏻, I'm Ekansh Mittal ! <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="60"></h2>
 <h3 align="left">An Immersive Reality Enthusiast learning and developing apps in the field of AR, VR, XR.</h3>
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/ekansh_mittal?label=Follow)](https://twitter.com/intent/follow?screen_name=ekansh_mittal)
+[![Linkedin: anmol](https://img.shields.io/badge/-ekansh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ekansh-mittal/)](https://www.linkedin.com/in/ekansh-mittal/)
+![GitHub followers](https://img.shields.io/github/followers/yaugan?label=Follow&style=social)
 
 <p align="left">
   <a href="https://github.com/Yaugan/yaugan">
@@ -8,7 +12,7 @@
 </p>
 
 <a href="#yaugan-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=yaugan&show_icons=true&count_private=true&include_all_commits=true" alt="macropower" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yaugan&show_icons=true&count_private=true&include_all_commits=true" alt="yaugan" align="right" />
 </a>
 
 - :office: &nbsp;I'm currently **open for new opportunities**.
