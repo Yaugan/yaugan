@@ -39,7 +39,7 @@
     </td>
     <td align="center" width="96">
       <a href="#yaugan-tech">
-        <img src="./img/unity.svg" width="88" height="88" alt="Unity" />
+        <img src="./img/unity.svg" width="48" height="48" alt="Unity" />
       </a>
       <br>Unity
     </td>
@@ -79,19 +79,19 @@
       <a href="#yaugan-tech" >
         <img src="./img/unreal.svg" width="48" height="48" alt="Unreal Engine" />
       </a>
-      <br>Unreal Engine
+      <br>Unreal
     </td>
     <td align="center"  width="96">
       <a href="#yaugan-tech">
-        <img src="./img/sparkAR.svg" width="100" height="100" alt="SparkAR" />
+        <img src="./img/sparkAR.svg" width="48" height="48" alt="SparkAR" />
       </a>
       <br>SparkAR
     </td>
     <td align="center"  width="96">
       <a href="#yaugan-tech">
-        <img src="./img/lens.svg" width="108" height="108" alt="Lens Studio" />
+        <img src="./img/lens.svg" width="48" height="48" alt="Lens Studio" />
       </a>
-      <br>Lens Studio
+      <br>Lens
     </td>
     <td align="center" width="96">
       <a href="#yaugan-tech">
