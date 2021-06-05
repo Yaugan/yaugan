@@ -89,7 +89,7 @@
     </td>
     <td align="center"  width="96">
       <a href="#yaugan-tech">
-        <img src="./img/lens.svg" width="48" height="48" alt="Lens Studio" />
+        <img src="./img/lens-studio.png" width="48" height="48" alt="Lens Studio" />
       </a>
       <br>Lens
     </td>
