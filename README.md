@@ -26,9 +26,7 @@
 
 <br>
 
-<div align="right">
 [![roadmap.sh](https://roadmap.sh/card/wide/683aaa69d3156c8eaf241ca6?variant=dark)](https://roadmap.sh)
-</div>
 
 <h2 align="left" id="yaugan-tech">🌟 Favorite Tech</h2>
 
