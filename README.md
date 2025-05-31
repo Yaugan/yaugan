@@ -6,7 +6,6 @@
 [![Linkedin: anmol](https://img.shields.io/badge/-ekansh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ekansh-mittal/)](https://www.linkedin.com/in/ekansh-mittal/)
 [![Instagram Badge](https://img.shields.io/badge/-ekansh-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/the_undeviated_soul/?hl=en)
 [![Telegram Badge](https://img.shields.io/badge/-ekansh-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/iamyaugan)
-[![roadmap.sh](https://roadmap.sh/card/wide/683aaa69d3156c8eaf241ca6?variant=dark)](https://roadmap.sh)
 
 
 <p align="left">
@@ -14,6 +13,8 @@
     <img src="https://komarev.com/ghpvc/?username=yaugan" alt="page views" />
   </a>
 </p>
+
+[![roadmap.sh](https://roadmap.sh/card/wide/683aaa69d3156c8eaf241ca6?variant=dark)](https://roadmap.sh)
 
 <a href="#yaugan-title">
   <img src="https://github-readme-stats.vercel.app/api?username=yaugan&show_icons=true&count_private=true&include_all_commits=true" alt="yaugan" align="right" />
