@@ -19,7 +19,7 @@
 </a>
 
 <a href="https://roadmap.sh">
- <img src="https://roadmap.sh/card/wide/683aaa69d3156c8eaf241ca6?variant=dark" alt="roadmap.sh" align="right" />
+ <img src="https://roadmap.sh/card/wide/683aaa69d3156c8eaf241ca6?variant=dark" alt="roadmap.sh" align="left" />
 </a>
 
 - :office: &nbsp;I'm currently **open for new opportunities**.
