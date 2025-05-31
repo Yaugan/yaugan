@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<a href="#yaugan-title">
+<a href="#yaugan-title" align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=yaugan&show_icons=true&count_private=true&include_all_commits=true" alt="yaugan" align="right" />
 </a>
 
