@@ -14,10 +14,6 @@
   </a>
 </p>
 
-<a href="#yaugan-title" align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=yaugan&show_icons=true&count_private=true&include_all_commits=true" alt="yaugan" align="right" />
-</a>
-
 <a href="https://roadmap.sh">
  <img src="https://roadmap.sh/card/wide/683aaa69d3156c8eaf241ca6?variant=dark" alt="roadmap.sh" align="right" />
 </a>
@@ -29,6 +25,11 @@
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
+
+
+<a href="#yaugan-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=yaugan&show_icons=true&count_private=true&include_all_commits=true" alt="yaugan"/>
+</a>
 
 <h2 align="left" id="yaugan-tech">🌟 Favorite Tech</h2>
 
