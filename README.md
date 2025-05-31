@@ -14,8 +14,6 @@
   </a>
 </p>
 
-[![roadmap.sh](https://roadmap.sh/card/wide/683aaa69d3156c8eaf241ca6?variant=dark)](https://roadmap.sh)
-
 <a href="#yaugan-title">
   <img src="https://github-readme-stats.vercel.app/api?username=yaugan&show_icons=true&count_private=true&include_all_commits=true" alt="yaugan" align="right" />
 </a>
