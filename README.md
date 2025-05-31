@@ -6,6 +6,7 @@
 [![Linkedin: anmol](https://img.shields.io/badge/-ekansh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ekansh-mittal/)](https://www.linkedin.com/in/ekansh-mittal/)
 [![Instagram Badge](https://img.shields.io/badge/-ekansh-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/the_undeviated_soul/?hl=en)
 [![Telegram Badge](https://img.shields.io/badge/-ekansh-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/iamyaugan)
+[![roadmap.sh](https://roadmap.sh/card/wide/683aaa69d3156c8eaf241ca6?variant=dark)](https://roadmap.sh)
 
 
 <p align="left">
